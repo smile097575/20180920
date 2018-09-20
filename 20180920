@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>106021047</title>
+    <style>
+        body {
+            background-image: url("333.jpg");
+        }
+
+        .main{
+            font-size:2em;
+            color: #7a30ed;
+        }
+
+
+    </style>
+</head>
+
+
+<h1 align="center">尚婕的網站</h1>
+
+<p class="main" align="center">
+   <img src="ball.gif">清平調<br>
+        雲想衣裳花想容<br>
+        傾國傾城美佳人<br>
+    <img src="054.jpg"><br>
+    <img src="HOME01.GIF">
+    <img src="GIRL.GIF">
+    <a href="http://www.asia.edu.tw/" target="_blank">ASIA</a>
+    <a href="Road3142.swf" target="_blank">小豬過馬路</a><br>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14574.24504758026!2d120.686421!3d24.046532!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1c471d70cdc89dc9!2z5Lqe5rSy5aSn5a24!5e0!3m2!1szh-TW!2stw!4v1537426387978" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
+    <iframe src="movie.mp4" width="500" height="300"></iframe><br>
+    <iframe src="Road3142.swf" width="320" height="240"></iframe>
+</p>
+
+
+</body>
+</html>
